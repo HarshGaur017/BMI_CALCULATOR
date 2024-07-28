@@ -27,10 +27,11 @@ To run the app, simply clone the repository and run flutter run in your terminal
 To get started with this project, you'll need to have Flutter installed on your machine. You can find the installation instructions on the official Flutter website.
 Once you have Flutter installed, you can clone this repository and run the app using the following commands:
 Copy code
-
-```git clone https://github.com/your-username/calculator-app.git
+```
+git clone https://github.com/your-username/calculator-app.git
 cd calculator-app
-flutter run```
+flutter run
+```
 
 **Contributing**
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
