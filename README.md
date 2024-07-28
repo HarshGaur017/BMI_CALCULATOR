@@ -41,4 +41,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Acknowledgments**
 This project was built following a step-by-step guide by Harsh Gaur.
-https://medium.com/@harshgaur017/building-a-basic-calculator-app-with-flutter-a-step-by-step-guide-3c7058ff60ec
+https://medium.com/@harshgaur017/building-a-flutter-app-for-health-dive-into-your-bmi-with-ease-3664dc7ce87c
